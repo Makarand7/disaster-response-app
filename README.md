@@ -65,7 +65,7 @@ In the root project directory, use the following commands:
 
 ## Access the Web Application
 
-The web application is hosted on [Render](RENDER_APP_URL). Click the link to interact with the app.
+The web application is hosted on [Render](https://disaster-response-app-s3h5.onrender.com).
 
 
 ## File Descriptions
