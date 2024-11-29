@@ -1,0 +1,21 @@
+# .gitignore
+# Python cache files
+*.pyc
+*.pyo
+__pycache__/
+app/__pycache__/
+models/__pycache__/
+
+# Environment files
+*.env
+.env/
+
+# Logs and temporary files
+*.log
+*.sqlite3
+
+# System files
+.DS_Store
+Thumbs.db
+
+.vercel

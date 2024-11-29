@@ -1,0 +1,8 @@
+Flask==3.1.0  # Web application framework
+joblib==1.4.2  # For loading and saving machine learning models
+nltk==3.9.1  # For natural language processing tasks
+pandas==2.2.3  # For data manipulation and analysis
+scikit-learn==1.5.2  # For building and using machine learning models
+SQLAlchemy==2.0.36  # For database interaction
+gunicorn==20.1.0  # WSGI server for deploying Flask apps
+plotly==5.24.1 #For visualization
