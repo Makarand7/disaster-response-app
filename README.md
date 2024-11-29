@@ -2,6 +2,13 @@
 
 This project is a web application designed to classify disaster response messages, allowing for faster and more effective handling of disaster communications. By categorizing messages, organizations can prioritize responses, helping communities in need during disaster situations.
 
+
+## GitHub Repository
+
+The source code for this project is hosted on GitHub:  
+[Disaster Response App Repository](https://github.com/Makarand7/disaster-response-app)
+
+
 ## Project Overview
 
 The project consists of:
